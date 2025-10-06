@@ -1,0 +1,42 @@
+Nama : Zahrah Amanda Fauziyah
+Kelas : TI.24.A.2
+NIM : 312410193
+Mata Kuliah : Pemograman Web 1 
+
+    Lab3Web.
+    
+    
+    Pertanyaan dan Tugas
+    1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
+  <img width="1919" height="860" alt="Cuplikan layar 2025-10-06 134612" src="https://github.com/user-attachments/assets/ccdd8ef0-cf2a-4c06-a646-d4ff0911fe1a" />
+Penjelasan :
+Deskripsi Form Pilihan Mobil
+Form ini dibuat untuk menampilkan dua jenis pilihan mobil, yaitu:
+
+Dropdown menu: Digunakan untuk memilih satu mobil secara tunggal.
+Listbox multiple selection: Digunakan untuk memilih lebih dari satu mobil dengan menekan Ctrl + klik.
+Desain Tampilan
+Tampilannya dibuat elegan dan aesthetic dengan:
+
+Warna pastel gradasi biru dan pink.
+Bentuk kotak yang membulat (rounded corners).
+Bayangan lembut (shadow) agar terlihat modern.
+Fitur Tombol
+Tombol “Kirim Pilihan” dibuat dengan:
+
+Warna gradasi yang menarik.
+Efek hover yang halus untuk tampilan interaktif.
+Kesimpulan
+Form ini tidak hanya berfungsi untuk memilih mobil, tetapi juga dirancang agar terlihat bersih, rapi, dan nyaman digunakan. Cocok untuk proyek web yang modern dan user-friendly.
+
+Laporan Praktikum:
+
+1. <img width="812" height="408" alt="Cuplikan layar 2025-10-06 124548" src="https://github.com/user-attachments/assets/83ceb98c-8948-4508-b5f2-a327515cc3b4" />
+2. <img width="868" height="575" alt="Cuplikan layar 2025-10-06 125021" src="https://github.com/user-attachments/assets/9daf832b-2233-4df9-9da1-d22a570bd3b0" />
+3. <img width="1190" height="905" alt="Cuplikan layar 2025-10-06 125202" src="https://github.com/user-attachments/assets/17253a7d-dbb5-45aa-b7b7-e4a2749ad503" />
+4. <img width="542" height="276" alt="Cuplikan layar 2025-10-06 125348" src="https://github.com/user-attachments/assets/18780d57-6d7c-4c05-8dd7-f75c80e3bafc" />
+5. <img width="527" height="457" alt="Cuplikan layar 2025-10-06 131027" src="https://github.com/user-attachments/assets/0829fdee-ec61-4614-9069-38fab0c35ce6" />
+6. <img width="1919" height="502" alt="Cuplikan layar 2025-10-06 132000" src="https://github.com/user-attachments/assets/60af1691-70d6-4df3-b0dd-a2cd0ed139ab" />
+7. <img width="1919" height="552" alt="Cuplikan layar 2025-10-06 132633" src="https://github.com/user-attachments/assets/f6d8ef62-9835-4811-b847-448849dd1feb" />
+
+
